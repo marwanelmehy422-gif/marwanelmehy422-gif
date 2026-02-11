@@ -1,4 +1,5 @@
-![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
+![MasterHead](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)
+
 
 <h1 align="center">Hi 👋, I'm Marwan Salah El-Mehy</h1>
 <h3 align="center">Backend Engineer | DevOps Trainee</h3>
