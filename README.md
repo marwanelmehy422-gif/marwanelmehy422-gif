@@ -1,7 +1,7 @@
 ![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 
 <h1 align="center">Hi 👋, I'm Marwan Salah El-Mehy</h1>
-<h3 align="center">Backend Engineer | DevOps Trainee | Cloud-Oriented Software Engineer</h3>
+<h3 align="center">Backend Engineer | DevOps Trainee</h3>
 
 ---
 
