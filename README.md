@@ -1,4 +1,5 @@
-![MasterHead](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)
+![MasterHead](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
 
 
 <h1 align="center">Hi 👋, I'm Marwan Salah El-Mehy</h1>
